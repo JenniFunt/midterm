@@ -49,7 +49,7 @@ video {
   background-color: #A274E8;
 }
 .item-2:hover {
-  background-image: url("2gethr-gif.gif");
+  background-image: url("flying.JPG");
   align-items: center;
   background-size: cover;
   background-position: center;
@@ -125,7 +125,7 @@ video {
   background-color: #E174E8;
 }
 .item-9:hover {
-  background-image: url("flying.JPG");
+  background-image: url("2gethr-gif.gif");
   align-items: center;
   background-size: cover;
   background-position: center;
