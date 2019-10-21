@@ -1,0 +1,293 @@
+
+
+
+.grid-container {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  grid-column-gap: 1vmin;
+  grid-row-gap: 1vmin;
+  transform: rotate(-15deg);
+
+}
+
+body {
+  overflow: hidden;
+  background-image: url("backgroundspace.gif");
+}
+body,html {
+  padding: 0;
+  margin: 0;
+}
+
+video {
+  width: 100%;
+  height: 100%;
+}
+
+.grid-item {
+
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  font-size: 30px;
+  text-align: center;
+}
+.item-1 {
+  background-color: #8F80FF;
+  background-size: cover;
+  background-position: center;
+}
+
+.item-1:hover {
+  background-image: url("source.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+
+.item-2 {
+  background-color: #A274E8;
+}
+.item-2:hover {
+  background-image: url("2gethr-gif.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+
+}
+.item-3 {
+  background-color: #D98CFF;
+}
+.item-3:hover{
+  background-image: url("giphy.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+
+.item-4 {
+  background-color: #A274E8;
+}
+
+.item-4:hover{
+  background-image: url("giphy-1.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+
+.item-5 {
+  background-color: #8F80FF;
+}
+.item-5:hover {
+  background-image: url("swirl.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-6 {
+  background-color: #A274E8;
+}
+.item-6:hover {
+  background-image: url("rezz.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-7 {
+  background-color: #E174E8;
+}
+.item-7:hover {
+  background-image: url("edm.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-8 {
+  background-color: #8F80FF;
+
+}
+.item-8:hover {
+  background-image: url("robotron.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+
+.item-9 {
+  background-color: #E174E8;
+}
+.item-9:hover {
+  background-image: url("flying.JPG");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-10 {
+  background-color: #A274E8;
+}
+.item-10:hover {
+  background-image: url("pizza.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-11 {
+  background-color: #D98CFF;
+}
+.item-11:hover{
+  background-image:  url("mario.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-12 {
+  background-color: #8F80FF;
+}
+.item-12:hover{
+  background-image:  url("jennispace.jpg");
+  align-items: center;
+  background-size: contain;
+  background-position: center;
+  transition: all 1s;
+}
+.item-13 {
+  background-color: #D98CFF;
+}
+.item-13:hover {
+  background-image: url("jennisportfolio.jpg");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-14 {
+  background-color: #8F80FF;
+}
+.item-14:hover{
+  background-image:  url("joust.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-15 {
+  background-color: #D98CFF;
+}
+.item-15:hover{
+  background-image:  url("tenor.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-16 {
+  background-color: #A274E8;
+}
+.item-16:hover{
+  background-image:  url("animation.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-17 {
+  background-color: #E174E8;
+}
+.item-17:hover{
+  background-image:  url("outfits.gif");
+  align-items: center;
+  background-size: contain;
+  background-position: center;
+  transition: all 1s;
+}
+.item-18 {
+  background-color: #8F80FF;
+}
+.item-18:hover{
+  background-image:  url("shelbimuseum.gif");
+  align-items: center;
+  background-size: contain;
+  background-position: center;
+  transition: all 1s;
+}
+.item-19 {
+  background-color: #E174E8;
+}
+.item-19:hover{
+  background-image:  url("places.gif");
+  align-items: center;
+  background-size: contain;
+  background-position: center;
+  transition: all 1s;
+}
+.item-20 {
+  background-color: #A274E8;
+}
+.item-20:hover{
+  background-image:  url("cod.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-21 {
+  background-color: #8F80FF;
+}
+.item-21:hover {
+  background-image: url("box.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-22 {
+  background-color: #A274E8;
+}
+.item-22:hover{
+  background-image:  url("candy.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-23 {
+  background-color: #D98CFF;
+}
+.item-23:hover{
+  background-image:  url("ski.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-24 {
+  background-color: #A274E8;
+}
+.item-24:hover{
+  background-image:  url("minecraft.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
+.item-25 {
+  background-color: #8F80FF;
+}
+.item-25:hover{
+  background-image:  url("jb.gif");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  transition: all 1s;
+}
