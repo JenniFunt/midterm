@@ -103,7 +103,7 @@ video {
   background-color: #E174E8;
 }
 .item-7:hover {
-  background-image: url("edm.gif");
+  background-image: url("animation.gif");
   align-items: center;
   background-size: cover;
   background-position: center;
@@ -195,7 +195,7 @@ video {
   background-color: #A274E8;
 }
 .item-16:hover{
-  background-image:  url("animation.gif");
+  background-image:  url("edm.gif");
   align-items: center;
   background-size: cover;
   background-position: center;
