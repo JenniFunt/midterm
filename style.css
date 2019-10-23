@@ -163,6 +163,9 @@ video {
 }
 .item-13 {
  background-image: url("jennisportfolio.jpg");
+  align-items: center;
+  background-size: cover;
+  background-position: center;
 }
 
 .item-14 {
