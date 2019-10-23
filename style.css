@@ -162,7 +162,7 @@ video {
   transition: all 1s;
 }
 .item-13 {
-  background-color: #D98CFF;
+  /*background-color: #D98CFF;*/
   background-image: url("jennisportfolio.jpg");
   align-items: center;
   background-size: cover;
@@ -174,10 +174,12 @@ video {
   align-items: center;
   background-size: cover;
   background-position: center;
+}
 
 .item-14 {
   background-color: #8F80FF;
 }
+
 .item-14:hover{
   background-image:  url("joust.gif");
   align-items: center;
