@@ -162,15 +162,9 @@ video {
   transition: all 1s;
 }
 .item-13 {
-  background-color: #D98CFF;
+ background-image: url("jennisportfolio.jpg");
 }
-.item-13:hover {
-  background-image: url("jennisportfolio.jpg");
-  align-items: center;
-  background-size: cover;
-  background-position: center;
-  transition: all 1s;
-}
+
 .item-14 {
   background-color: #8F80FF;
 }
